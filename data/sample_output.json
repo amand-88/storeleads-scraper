@@ -1,0 +1,42 @@
+[
+  {
+    "region": "Americas",
+    "detailed_region": "Northern America",
+    "title": "Example",
+    "domain": "example.com",
+    "monthly_sales": "USD $4,045,689.52",
+    "annual_sales": "USD $48,548,274.24",
+    "location": "Remote",
+    "country": "United States",
+    "employees": 4019,
+    "monthly_visits": 3990828,
+    "monthly_page_views": 10775235,
+    "trustpilot_avg_rating": 5.0,
+    "trustpilot_review_count": 47865,
+    "social_networks": [
+      {
+        "url": "https://twitter.com/example",
+        "username": "example",
+        "follower_count": 1186032
+      }
+    ],
+    "technologies": [
+      "Cloudflare",
+      "React",
+      "Node.js"
+    ],
+    "cluster_domains": [
+      "example.com",
+      "www.example.com",
+      "shop.example.com"
+    ],
+    "features": [
+      "https",
+      "cdn",
+      "spa"
+    ],
+    "source_query": "https://example.com/search?q=electronics",
+    "scraped_at": "2024-01-01T00:00:00Z",
+    "mock": true
+  }
+]
