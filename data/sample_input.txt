@@ -1,0 +1,2 @@
+# You can place Storeleads search URLs here (one per line).
+# If you don't have cookies, run in mock mode:
