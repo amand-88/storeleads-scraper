@@ -1,0 +1,7 @@
+{
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) StoreleadsScraper/1.0 Safari/537.36",
+  "concurrency": 4,
+  "outputFormat": "json",
+  "cookies": "key1=value1; key2=value2",
+  "notes": "Copy this file to settings.json and edit values. If cookies are absent, run with --mock for offline generation."
+}
